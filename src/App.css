@@ -1,1 +1,5 @@
 
+/* Smooth scroll for sidebar */
+.sidebar-scroll {
+    scroll-behavior: smooth;
+  }
